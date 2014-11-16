@@ -72,6 +72,9 @@
     <Content Include="assets\sounds\yay.ogg" />
     <Content Include="assets\sounds\thunder.ogg" />
     <Content Include="assets\sounds\engine.ogg" />
+    <Content Include="assets\sounds\crash.ogg" />
+    <Content Include="assets\sounds\flying.ogg" />
+    <Content Include="assets\sounds\points.ogg" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

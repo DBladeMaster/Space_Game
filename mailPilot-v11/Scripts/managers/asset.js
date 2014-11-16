@@ -4,9 +4,9 @@
     var assetManifest = [
         { id: "loading", src: "assets/images/loading.jpg" },
         { id: "ocean", src: "assets/images/Space_Background.gif" },
-        { id: "engine", src: "assets/sounds/engine.ogg" },
-        { id: "thunder", src: "assets/sounds/thunder.ogg" },
-        { id: "yay", src: "assets/sounds/yay.ogg" }
+        { id: "engine", src: "assets/sounds/flying.ogg" },
+        { id: "thunder", src: "assets/sounds/crash.ogg" },
+        { id: "yay", src: "assets/sounds/points.ogg" }
     ];
 
     // SpriteSheet Data Object

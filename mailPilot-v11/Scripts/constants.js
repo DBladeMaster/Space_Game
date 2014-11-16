@@ -6,9 +6,9 @@
     constants.GAME_OVER_STATE = 2;
 
     // Game Constants
-    constants.CLOUD_NUM = 5;
+    constants.CLOUD_NUM = 8;
     constants.LABEL_FONT = "40px Consolas";
     constants.LABEL_COLOUR = "#FFFF00";
-    constants.PLANE_LIVES = 3;
+    constants.PLANE_LIVES = 20;
 })(constants || (constants = {}));
 //# sourceMappingURL=constants.js.map
